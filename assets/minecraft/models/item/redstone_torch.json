@@ -1,0 +1,21 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+     "layer0": "minecraft:block/redstone_torch"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 10101000}, "model": "strangecurse/herobrine010101000"},
+     { "predicate": {"custom_model_data": 10102001}, "model": "strangecurse/herobrine010102001"},
+     { "predicate": {"custom_model_data": 10102002}, "model": "strangecurse/herobrine010102002"},
+     { "predicate": {"custom_model_data": 10102003}, "model": "strangecurse/herobrine010102003"},
+     { "predicate": {"custom_model_data": 10102004}, "model": "strangecurse/herobrine010102004"},
+     { "predicate": {"custom_model_data": 10102005}, "model": "strangecurse/herobrine010102005"},
+     { "predicate": {"custom_model_data": 10102006}, "model": "strangecurse/herobrine010102006"},
+     { "predicate": {"custom_model_data": 10102007}, "model": "strangecurse/herobrine010102007"},
+     { "predicate": {"custom_model_data": 10102008}, "model": "strangecurse/herobrine010102008"}
+   
+    ]
+   
+    
+   }
