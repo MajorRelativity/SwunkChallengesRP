@@ -7,4 +7,8 @@
         "sounds": [
           "minecraft:vineboom"]
         }
+      ,"limbo": {
+        "sounds": [
+          "minecraft:depressedmemory"]
+        }
   }
